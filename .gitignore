@@ -21,6 +21,7 @@ yarn-error.log*
 # Build output
 dist/
 build/
+script.js
 
 # Environment variables
 .env
