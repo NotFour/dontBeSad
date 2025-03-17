@@ -1,0 +1,24 @@
+{
+  "name": "dontbesad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "obfuscate": "javascript-obfuscator script.js --output script.min.js --config obfuscator.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotFour/dontBeSad.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotFour/dontBeSad/issues"
+  },
+  "homepage": "https://github.com/NotFour/dontBeSad#readme",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.0"
+  }
+}
